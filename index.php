@@ -13,7 +13,7 @@
     <head>
 
         <meta charset="utf-8">
-        <title>Login | Minia - Minimal Admin & Dashboard Template</title>
+        <title>Iniciar sesión | Minia - Plantilla minimalista de administración y panel de control</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="Sistema de mesa de partes del programa de estudiso-IESTP" name="description">
         <meta content="Themesbrand" name="author">
@@ -53,7 +53,7 @@
                                         <form class="custom-form mt-4 pt-2">
                                             <div class="mb-3">
                                                 <label class="form-label">Nombre de usuario</label>
-                                                <input type="text" class="form-control" id="username" placeholder="Enter username">
+                                                <input type="email" class="form-control" id="nomnredeusuario" placeholder="Enter username">
                                             </div>
                                             <div class="mb-3">
                                                 <div class="d-flex align-items-start">
@@ -215,7 +215,7 @@
                                                                 <img src="assets/picture/avatar-3-1.jpg" class="avatar-md img-fluid rounded-circle" alt="...">
                                                                 <div class="flex-1 ms-3 mb-4">
                                                                     <h5 class="font-size-18 text-white">Ilse R. Eaton</h5>
-                                                                    <p class="mb-0 text-white-50">Manager
+                                                                    <p class="mb-0 text-white-50">Gere
                                                                     </p>
                                                                 </div>
                                                             </div>
