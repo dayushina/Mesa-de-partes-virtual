@@ -52,8 +52,8 @@
                                         </div>
                                         <form class="custom-form mt-4 pt-2">
                                             <div class="mb-3">
-                                                <label class="form-label">Coreo Electronico</label>
-                                                <input type="email" class="form-control" id="nomnredeusuario" placeholder="Enter username">
+                                                <label class="form-label">Correo Electronico</label>
+                                                <input type="email" class="form-control" id="Introducir nombre de usuario" placeholder="Introducir nombre de usuario">
                                             </div>
                                             <div class="mb-3">
                                                 <div class="d-flex align-items-start">
@@ -68,7 +68,7 @@
                                                 </div>
                                                 
                                                 <div class="input-group auth-pass-inputgroup">
-                                                    <input type="password" class="form-control" placeholder="Enter password" aria-label="Password" aria-describedby="password-addon">
+                                                    <input type="password" class="form-control" placeholder="Introducir contraseña" aria-label="Password" aria-describedby="password-addon">
                                                     <button class="btn btn-light shadow-none ms-0" type="button" id="password-addon"><i class="mdi mdi-eye-outline"></i></button>
                                                 </div>
                                             </div>
