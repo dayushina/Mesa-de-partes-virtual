@@ -13,7 +13,7 @@
     <head>
 
         <meta charset="utf-8">
-        <title>Iniciar sesión | Mesa de Partes virtual DSI</title>
+        <title>Iniciar sesión | Mesa de Partes virtual D</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <meta content="Sistema de mesa de partes del programa de estudiso-IESTP" name="description">
         <meta content="Themesbrand" name="author">
@@ -52,7 +52,7 @@
                                         </div>
                                         <form class="custom-form mt-4 pt-2">
                                             <div class="mb-3">
-                                                <label class="form-label">Nombre de usuario</label>
+                                                <label class="form-label">Coreo Electronico</label>
                                                 <input type="email" class="form-control" id="nomnredeusuario" placeholder="Enter username">
                                             </div>
                                             <div class="mb-3">
@@ -117,7 +117,7 @@
                                         </div>
                                     </div>
                                     <div class="mt-4 mt-md-5 text-center">
-                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> Minia   . Crafted with <i class="mdi mdi-heart text-danger"></i> by Themesbrand</p>
+                                        <p class="mb-0">© <script>document.write(new Date().getFullYear())</script> DSI_Lover's<i class="mdi mdi-heart text-danger"></i> Unidad de Innovación Tecnológica</p>
                                     </div>
                                 </div>
                             </div>
