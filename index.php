@@ -42,7 +42,7 @@
                                 <div class="d-flex flex-column h-100">
                                     <div class="mb-4 mb-md-5 text-center">
                                         <a href="index-1.html" class="d-block auth-logo">
-                                            <img src="assets/picture/logo-dsi.jpg" alt="" height="100"> <span class="logo-txt">Minia</span>
+                                            <img src="assets/picture/logo-dsi.jpg" alt="" height="100"> <span class="logo-txt">Multitud </span>
                                         </a>
                                     </div>
                                     <div class="auth-content my-auto">
